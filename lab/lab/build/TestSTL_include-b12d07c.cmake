@@ -1,0 +1,5 @@
+if(EXISTS "/Users/renxuanyu/Desktop/Grade2/DataStructCode/lab/lab/build/TestSTL_tests-b12d07c.cmake")
+  include("/Users/renxuanyu/Desktop/Grade2/DataStructCode/lab/lab/build/TestSTL_tests-b12d07c.cmake")
+else()
+  add_test(TestSTL_NOT_BUILT-b12d07c TestSTL_NOT_BUILT-b12d07c)
+endif()

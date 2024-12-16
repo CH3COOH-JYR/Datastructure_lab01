@@ -1,0 +1,43 @@
+Start testing: Nov 24 12:02 CST
+----------------------------------------------------------
+1/2 Testing: test list
+1/2 Test: test list
+Command: "/Users/renxuanyu/Desktop/Grade2/DataStructCode/lab/lab/build/TestSTL" "test list"
+Directory: /Users/renxuanyu/Desktop/Grade2/DataStructCode/lab/lab/build
+"test list" start time: Nov 24 12:02 CST
+Output:
+----------------------------------------------------------
+Filters: "test list"
+Randomness seeded to: 1519436375
+===============================================================================
+All tests passed (36 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test list" end time: Nov 24 12:02 CST
+"test list" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: test vector
+2/2 Test: test vector
+Command: "/Users/renxuanyu/Desktop/Grade2/DataStructCode/lab/lab/build/TestSTL" "test vector"
+Directory: /Users/renxuanyu/Desktop/Grade2/DataStructCode/lab/lab/build
+"test vector" start time: Nov 24 12:02 CST
+Output:
+----------------------------------------------------------
+Filters: "test vector"
+Randomness seeded to: 2317356628
+===============================================================================
+All tests passed (57 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test vector" end time: Nov 24 12:02 CST
+"test vector" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 24 12:02 CST

@@ -1,0 +1,5 @@
+add_test( [==[test list]==] /Users/renxuanyu/Desktop/Grade2/DataStructCode/lab/lab/build/TestSTL [==[test list]==]  )
+set_tests_properties( [==[test list]==] PROPERTIES WORKING_DIRECTORY /Users/renxuanyu/Desktop/Grade2/DataStructCode/lab/lab/build)
+add_test( [==[test vector]==] /Users/renxuanyu/Desktop/Grade2/DataStructCode/lab/lab/build/TestSTL [==[test vector]==]  )
+set_tests_properties( [==[test vector]==] PROPERTIES WORKING_DIRECTORY /Users/renxuanyu/Desktop/Grade2/DataStructCode/lab/lab/build)
+set( TestSTL_TESTS [==[test list]==] [==[test vector]==])
